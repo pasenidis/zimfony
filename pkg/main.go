@@ -1,8 +1,8 @@
 package zymfony
 
 import (
-	"zimfony-agent/pkg/installer"
-	"zimfony-agent/pkg/updater"
+	"github.com/pasenidis/zimfony-agent/pkg/installer"
+	"github.com/pasenidis/zimfony-agent/pkg/updater"
 )
 
 func Run() {
